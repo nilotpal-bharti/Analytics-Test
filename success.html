@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--#include virtual="header.html" --> <!-- Include the common header section using SSI -->
+    <title>Success</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Link to the external CSS file -->
+    <script src="https://assets.adobedtm.com/e9875dd51dbe/0feaf2f93f02/launch-cf27e596a956.min.js" async></script>
+  </head>
+  <body>
+    <!-- Success page content -->
+    <div class="success-container">
+      <i class="success-icon fas fa-check-circle"></i>
+      <h1 class="success-heading">Payment Successful!</h1>
+      <p class="success-message">Thank you for your purchase.</p>
+      <button class="success-button" onclick="redirectToHome()">Continue Shopping</button>
+    </div>
+
+    <script>
+      // Redirect to home page on button click
+      function redirectToHome() {
+        window.location.href = 'index.html'; // Replace with your home page URL
+      }
+    </script>
+  </body>
+</html>

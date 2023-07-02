@@ -1,0 +1,74 @@
+[
+    {
+      "productId": "001",
+      "category": "Electronics",
+      "name": "Smartphone X",
+      "price": "15000",
+      "image": "smartphone_x.jpg",
+      "quantity": 0
+    },
+    {
+      "productId": "002",
+      "category": "Electronics",
+      "name": "Laptop Pro",
+      "price": "45000",
+      "image": "laptop_pro.jpg",
+      "quantity": 0
+    },
+    {
+      "productId": "003",
+      "category": "Electronics",
+      "name": "Wireless Headphones",
+      "price": "2500",
+      "image": "wireless_headphones.jpg",
+      "quantity": 0
+    },
+    {
+      "productId": "004",
+      "category": "Electronics",
+      "name": "Smart TV",
+      "price": "35000",
+      "image": "smart_tv.jpg",
+      "quantity": 0
+    },
+    {
+      "productId": "005",
+      "category": "Electronics",
+      "name": "Digital Camera",
+      "price": "12000",
+      "image": "digital_camera.jpg",
+      "quantity": 0
+    },
+    {
+      "productId": "006",
+      "category": "Clothing",
+      "name": "Men's T-Shirt",
+      "price": "500",
+      "image": "mens_tshirt.jpg",
+      "quantity": 0
+    },
+    {
+      "productId": "007",
+      "category": "Clothing",
+      "name": "Women's Dress",
+      "price": "3000",
+      "image": "womens_dress.jpg",
+      "quantity": 0
+    },
+    {
+      "productId": "008",
+      "category": "Clothing",
+      "name": "Kids' Jeans",
+      "price": "1200",
+      "image": "kids_jeans.jpg",
+      "quantity": 0
+    },
+    {
+      "productId": "009",
+      "category": "Clothing",
+      "name": "Sports Shoes",
+      "price": "2500",
+      "image": "sports_shoes.jpg",
+      "quantity": 0
+    }
+]

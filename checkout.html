@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--#include virtual="header.html" --> <!-- Include the common header section using SSI -->
+    <title>Checkout</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Link to the external CSS file -->
+    <script src="https://assets.adobedtm.com/e9875dd51dbe/0feaf2f93f02/launch-cf27e596a956.min.js" async></script>
+  </head>
+  <body>
+    <!-- Checkout form and other HTML elements -->
+    <div id="checkoutContainer">
+      <h1>Checkout</h1>
+      <div id="productDetails"></div>
+      <p id="totalPrice"></p>
+      <p id="todaysDate"></p>
+      <button id="paymentButton">Make Payment</button>
+      <button id="clearCartButton">Clear Cart</button> <!-- Add Clear Cart button -->
+    </div>
+
+    <script src="checkout.js" type="module"></script> <!-- Include the external checkout.js file -->
+  </body>
+</html>
